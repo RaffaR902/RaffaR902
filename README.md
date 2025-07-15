@@ -37,15 +37,15 @@
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="30" alt="kaggle logo"  />
 </div>
 <p>
-Futuro bacharel em Sistemas de Informação, apaixonado por tecnologia e movido pela curiosidade de entender como os dados moldam decisões e como sistemas robustos conectam o mundo. Minha jornada acadêmica e pessoal me conduziu a duas áreas que me encantam: Desenvolvimento Back End e Data Science.
+<b>Futuro bacharel em Sistemas de Informação</b>, apaixonado por tecnologia e movido pela curiosidade de entender como os dados moldam decisões e como sistemas robustos conectam o mundo. Minha jornada acadêmica e pessoal me conduziu a duas áreas que me encantam: <b>Desenvolvimento Back End</b> e <b>Data Science</b>.
 
 Ao longo da minha formação, desenvolvi uma base sólida e versátil em programação, ciência de dados e ferramentas de desenvolvimento. Minhas principais habilidades incluem:
 
-🧩 Linguagens de Programação: domínio de HTML, CSS, JavaScript, Python, Java, C, C#, e PHP — utilizadas em projetos que vão desde interfaces web até sistemas back end robustos.
+🧩 <b>Linguagens de Programação:</b> domínio de HTML, CSS, JavaScript, Python, Java, C, C#, e PHP — utilizadas em projetos que vão desde interfaces web até sistemas back end robustos.
 
-📊 Ciência de Dados: experiência com análise exploratória, construção de consultas em SQL, manipulação de bases em MySQL e SQL Server, aplicação de técnicas de Machine Learning para gerar insights e soluções preditivas, além do uso do Jupyter Notebook para desenvolvimento e visualização de projetos.
+📊 <b>Ciência de Dados:</b> experiência com análise exploratória, construção de consultas em SQL, manipulação de bases em MySQL e SQL Server, aplicação de técnicas de Machine Learning para gerar insights e soluções preditivas, além do uso do Jupyter Notebook para desenvolvimento e visualização de projetos.
 
-🛠️ Ferramentas: Git e GitHub para controle de versão e colaboração, Postman para testes de APIs.
+🛠️ <b>Ferramentas:</b> Git e GitHub para controle de versão e colaboração, Postman para testes de APIs.
 
 Meu objetivo é desenvolver soluções escaláveis e inteligentes — seja por meio de APIs de alta performance ou da extração de insights estratégicos de grandes volumes de dados. Encaro desafios que exigem visão técnica e pensamento estratégico como oportunidades de unir lógica e criatividade, transformando ideias em projetos reais: de uma API robusta a um modelo preditivo. Acredito no poder da tecnologia de gerar impacto real, por isso estou sempre em busca de novas oportunidades para aprender, evoluir e contribuir em iniciativas significativas.
 </p>

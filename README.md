@@ -41,13 +41,13 @@
 
 Ao longo da minha formação, desenvolvi uma base sólida e versátil em programação, ciência de dados e ferramentas de desenvolvimento. Minhas principais habilidades incluem:
 
-🧩 <b>Linguagens de Programação:</b> domínio de HTML, CSS, JavaScript, Python, Java, C, C#, e PHP — utilizadas em projetos que vão desde interfaces web até sistemas back end robustos.
+🧩 <b>Linguagens de Programação:</b> domínio de HTML, CSS, JavaScript, Python, Java, C, C#, e PHP - utilizadas em projetos que vão desde interfaces web até sistemas back end robustos.
 
 📊 <b>Ciência de Dados:</b> experiência com análise exploratória, construção de consultas em SQL, manipulação de bases em MySQL e SQL Server, aplicação de técnicas de Machine Learning para gerar insights e soluções preditivas, além do uso do Jupyter Notebook para desenvolvimento e visualização de projetos.
 
 🛠️ <b>Ferramentas:</b> Git e GitHub para controle de versão e colaboração, Postman para testes de APIs.
 
-Meu objetivo é desenvolver soluções escaláveis e inteligentes — seja por meio de APIs de alta performance ou da extração de insights estratégicos de grandes volumes de dados. Encaro desafios que exigem visão técnica e pensamento estratégico como oportunidades de unir lógica e criatividade, transformando ideias em projetos reais: de uma API robusta a um modelo preditivo. Acredito no poder da tecnologia de gerar impacto real, por isso estou sempre em busca de novas oportunidades para aprender, evoluir e contribuir em iniciativas significativas.
+Meu objetivo é desenvolver soluções escaláveis e inteligentes - seja por meio de APIs de alta performance ou da extração de insights estratégicos de grandes volumes de dados. Encaro desafios que exigem visão técnica e pensamento estratégico como oportunidades de unir lógica e criatividade, transformando ideias em projetos reais: de uma API robusta a um modelo preditivo. Acredito no poder da tecnologia de gerar impacto real, por isso estou sempre em busca de novas oportunidades para aprender, evoluir e contribuir em iniciativas significativas.
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaffaR902&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false" height="150" alt="stats graph"/>

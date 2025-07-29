@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Rafael R Ribeiro</h1>
+<h1 align="left">Hi 👋! My name is Rafa</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -34,7 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="30" alt="kaggle logo"  />
 </div>
 <p>
 <b>Futuro bacharel em Sistemas de Informação</b>, apaixonado por tecnologia e movido pela curiosidade de entender como os dados moldam decisões e como sistemas robustos conectam o mundo. Minha jornada acadêmica e pessoal me conduziu a duas áreas que me encantam: <b>Desenvolvimento Back End</b> e <b>Data Science</b>.
